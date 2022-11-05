@@ -22,8 +22,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6288215716049']
-global.premium = ['6288215716049']
+global.owner = ['6289612272274','6282125887800','62882006726140']
+global.premium = ['6289612272274','6282125887800'62882006726140]
 global.packname = 'The Gaz Bot'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
